@@ -16,6 +16,14 @@ Working alone is not bad but with a team you can create bigger, more impressive 
 - Once done working on your project you can create pr to recive code review.
 
 
+## Looking at the future:
+
+**Liked working with your partner?** <br>
+Greate - you have found a partner for your next projects.
+
+**Want to search for different partner?** <br>
+All you need to do is repet the procces again with different team, you can change your project so you wont get board repeting yourself.
+
 
 
 
