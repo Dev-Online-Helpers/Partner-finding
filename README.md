@@ -11,6 +11,8 @@ Working alone is not bad but with a team you can create bigger, more impressive 
 
 - Create a branch from the main branch (for example tamir_oren for tamir and oren team)/fork the repository.
 
+- Pick one of the given projects (every folder is a project) 
+
 - After you finished working on your project you can create pr to recive code review.
 
 
