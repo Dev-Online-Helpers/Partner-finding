@@ -15,7 +15,7 @@ Working alone is not bad but with a team you can create bigger, more impressive 
 
 - Pick one of the given projects (every folder is a project), start work on it with your partner.
 
-- Once done working on your project you can create pr to recive code review.
+- Once done working on your project you can create pr to receive code review.
 
 
 ## Looking at the future:
